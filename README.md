@@ -1,6 +1,6 @@
-### Hellouu, Un junior siendo junior
+### Hellouu, Un fullstack que esta muriendo con su proyecto :)
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=21djx25x3ddyue6b5hwak34oq&cover_image=true&theme=default&show_offline=true&background_color=230107&interchange=true&bar_color=748b8a&bar_color_cover=false)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21djx25x3ddyue6b5hwak34oq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **DeRep311/DeRep311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
