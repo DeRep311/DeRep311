@@ -1,6 +1,8 @@
 ### Hellouu, Un fullstack que esta muriendo con su proyecto :)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21djx25x3ddyue6b5hwak34oq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21djx25x3ddyue6b5hwak34oq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=ff004d&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
 
 <!--
 **DeRep311/DeRep311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
